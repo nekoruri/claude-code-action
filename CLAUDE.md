@@ -4,7 +4,7 @@ This file provides guidance to Claude Code when working with code in this reposi
 
 ## Development Tools
 
-- Runtime: Bun 1.2.11
+- Runtime: Bun 1.4.4
 
 ## Common Development Tasks
 

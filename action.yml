@@ -85,7 +85,7 @@ runs:
     - name: Install Bun
       uses: oven-sh/setup-bun@v2
       with:
-        bun-version: 1.2.11
+        bun-version: 1.4.4
 
     - name: Install Dependencies
       shell: bash
